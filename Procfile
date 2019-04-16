@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT after_dark_2324.wsgi:application
